@@ -1,0 +1,9 @@
+.home{
+    display: flex;
+    padding: 24px;
+    background: #fff;
+    height: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
